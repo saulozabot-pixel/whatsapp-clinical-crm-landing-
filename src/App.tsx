@@ -6,7 +6,7 @@ function App() {
   const [isModalOpen, setIsModalOpen] = useState(false)
   const [formData, setFormData] = useState({ name: '', email: '', clinic: '' })
 
-  const WHATSAPP_NUMBER = "5511999999999" // TODO: Add user's real number
+  const WHATSAPP_NUMBER = "5547988182649" // Updated with user's real number
 
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id)
